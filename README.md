@@ -15,4 +15,5 @@ They have applications in image and video recognition, recommender systems, imag
 
 
 Dataset : mnist
+
 Python  : Python 3.6 
